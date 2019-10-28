@@ -11,12 +11,12 @@ Instructions: Write a program that models a real-world scenario.
 5.	The program should be written in OOP format using at least one implementation class and one client tester class.
 6.	Choose a previous project to convert to OOP format. Suggestions include the Hurricane or Darts projects. If you have another idea, seek instructor approval.
 7.	The object implementation class needs to contain:
-a.	private instance variables
-b.	at least one constructor
-c.	mutator methods
-d.	a toString() method
-e.	getter methods
-f.	any other appropriate code
+  a.	private instance variables
+  b.	at least one constructor
+  c.	mutator methods
+  d.	a toString() method
+  e.	getter methods
+  f.	any other appropriate code
 8.	In the client class, use a data structure, either an array or an ArrayList, to organize instances of the object.
 9.	A minimum of 10 different objects should be used in this simulation.
 10.	As appropriate, provide summary information for your simulation, such as minimum, maximum, total, or average values.
